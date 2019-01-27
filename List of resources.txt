@@ -1,0 +1,21 @@
+
+Exploratory Data Analysis
+=========================
+
+Resources used:
+
+- Data Dictionary: https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
+- Basic information about Prosper Funding LLC: https://www.prosper.com/about
+- About a recent round of funding by an Asian investor: https://www.lendacademy.com/prosper-closes-funding-round/
+- About peer-to-peer lending: https://www.investopedia.com/terms/p/peer-to-peer-lending.asp
+- Understanding Annual Percentage Rates (APR): https://www.investopedia.com/terms/a/apr.asp
+- Hack for ordering a bar chart: https://stackoverflow.com/questions/25664007/reorder-bars-in-geom-bar-ggplot2
+- Hack for making a factor out of numeric variables: https://stackoverflow.com/questions/13613913/how-do-i-convert-certain-columns-of-a-data-frame-to-become-factors
+- How to convert a factor to a date: https://stackoverflow.com/questions/23348992/convert-factor-to-date-time-in-r
+- US States by population: https://simple.wikipedia.org/wiki/List_of_U.S._states_by_population
+- Rate comparison between two peer-to-peer lending companies: https://www.lendingmemo.com/rates-fees-lending-club-prosper/
+- How to force decimal notation in charts: https://stackoverflow.com/questions/14563989/force-r-to-stop-plotting-abbreviated-axis-labels-e-g-1e00-in-ggplot2
+- How to display frequencies in a summarised dataframe with dplyr: https://stackoverflow.com/questions/24576515/relative-frequencies-proportions-with-dplyr
+- How to globally set chunk options: https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html
+- How to make a geom_col have gradient colors from red to green: https://stackoverflow.com/questions/48210231/creating-a-vertical-color-gradient-for-a-geom-bar-plot?noredirect=1&lq=1
+
